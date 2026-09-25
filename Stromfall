@@ -1,0 +1,27 @@
+🎮 Project Stormfall — Battle Royale
+
+Project Stormfall is a multiplayer-style battle royale game where you choose an operative, select a game mode, drop onto a large map, collect loot, survive the shrinking zone, and be the last player standing.
+
+Characters:
+
+👻 Ghost — temporary invisibility
+⚡ Surge — speed boost
+🛡️ Fortress — extra armor/shield
+🐍 Viper — poison cloud
+🦅 Hawk — area scan
+💚 Medic — healing burst
+
+Modes: Solo, Duo, and Squad.
+
+Gameplay includes:
+
+Large procedurally generated map with locations such as Stormfall City, Airport, Military Base, Research Lab, and Beach Resort.
+Lootable weapons, ammunition, health, armor, and grenades.
+Multiple weapon types with different ranges and firing characteristics.
+Shrinking safe zone that forces players toward the center.
+Bot opponents with basic combat, movement, and looting AI.
+Supply drops and special character abilities.
+Minimap, health/armor HUD, kill feed, weapon inventory, ability cooldowns, and mobile controls.
+Final results showing placement, eliminations, damage, and survival time.
+
+Controls: WASD to move, mouse to aim/shoot, E to interact, R to reload, 1–5 to switch weapons, Q for ability, Space to dash, and G for grenades.
